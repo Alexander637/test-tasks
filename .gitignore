@@ -1,0 +1,6 @@
+*go_test/go.mod
+*php_tests/vendor
+*php_tests/composer.json
+*php_tests/composer.lock
+*py_test/__pycache__
+*py_test/venv
